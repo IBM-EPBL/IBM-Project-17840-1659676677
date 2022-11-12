@@ -8,6 +8,9 @@ By the end of this project we will be able to:
 *Gain a broad understanding of time series data.
 *Know how to split the data for time series forecasting.
 *Know how to build a web application using the Flask framework.
+
+
+
 Project Flow
 To accomplish this, we have to complete all the activities and tasks listed below
 
@@ -38,6 +41,9 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 13.Import the model building Libraries
 
 14.Initializing the model
+
+
+
 Pre-Requisites
 Anaconda Navigator :
 
