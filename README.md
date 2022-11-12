@@ -12,6 +12,7 @@ By the end of this project we will be able to:
 
 
 Project Flow
+
 To accomplish this, we have to complete all the activities and tasks listed below
 
 1.Data Collection.
