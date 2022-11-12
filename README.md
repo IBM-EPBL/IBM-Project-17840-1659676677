@@ -5,8 +5,11 @@ Project Objectives
 By the end of this project we will be able to:
 
 *Know fundamental concepts and techniques of time series forecasting and LSTM
+
 *Gain a broad understanding of time series data.
+
 *Know how to split the data for time series forecasting.
+
 *Know how to build a web application using the Flask framework.
 
 
@@ -46,6 +49,8 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
 
 Pre-Requisites
+
+
 Anaconda Navigator :
 
 Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform, package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.
@@ -67,10 +72,13 @@ Keras leverages various optimization techniques to make high-level neural networ
 4.It is a user-friendly framework that runs on both CPU and GPU.
 
 5.Highly scalability of computation.
+
 Flask:
+
 Web framework used for building Web applications
 
 Prior Knowledge:
+
 1.Supervised and unsupervised learning.
 
 2.Regression Classification and Clustering.
